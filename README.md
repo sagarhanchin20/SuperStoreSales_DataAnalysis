@@ -13,7 +13,7 @@ The dataset is randomly generated. It contains 500 clean rows with no null value
 | `statistics` | Mean, median, std deviation |
 
 ## 📊 Visualizations
-![charts](images/chart.png)
+![charts](Images/chart.png)
 
 ##  ▶️ Run in Google Colab
 
